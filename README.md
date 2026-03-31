@@ -79,7 +79,7 @@ tic-tac-toe/
 ## 📸 Preview
 
 > ![preview](ss.jpeg)
-> *(Add a screenshot of your game here)*
+
 
 ---
 
